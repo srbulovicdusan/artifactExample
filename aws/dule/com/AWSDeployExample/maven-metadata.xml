@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>aws.dule.com</groupId>
+  <artifactId>AWSDeployExample</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191120112352</lastUpdated>
+  </versioning>
+</metadata>
